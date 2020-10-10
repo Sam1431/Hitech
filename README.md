@@ -19,5 +19,8 @@ Preview
 ***Solus***
 ![Solus](https://user-images.githubusercontent.com/68412503/95646007-b4aba800-0ae1-11eb-9e2a-4f63fb7e6e08.png)
 
+***Void Linux***
+![Void](https://user-images.githubusercontent.com/68412503/95646706-e5431000-0ae8-11eb-9737-df8f98f52f35.png)
+
 ***The Ultimate Gnu***
 ![Gnu](https://user-images.githubusercontent.com/68412503/95646013-c2612d80-0ae1-11eb-8801-f4f0c5f9a130.png)
